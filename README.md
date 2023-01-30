@@ -85,10 +85,10 @@ bęben nabojowy;
 - pociski wypełnione chemicznymi środkami obezwładniającymi, których działanie
 zagraża życiu lub zdrowiu, kowadełko, łuska;
 - spłonki inicjujące spalanie materiału miotającego, łuska;
-- pociski wypełnione materiałami wybuchowymi, chemicznymi środkami              $
+- pociski wypełnione materiałami wybuchowymi, chemicznymi środkami
 obezwładniającymi lub zapalającymi albo innymi substancjami, których działanie
 zagraża życiu lub zdrowiu, spłonki inicjujące spalanie materiału miotającego i
-materiał miotający w postaci prochu strzelniczego;
+materiał miotający w postaci prochu strzelniczego;                              $
 
 1. Pozwolenie na broń - z wyłączeniem broni sportowej i myśliwskiej - wydaje
 się osobie, która ukończyła:
@@ -151,7 +151,7 @@ pocisku opuszczającego lufę lub element ja zastępujący przekracza 17J;      
 1. Właściwy organ Policji cofa pozwolenie na broń, jeżeli osoba, której
 pozwolenie takie wydano:
 - naruszyła obowiązek rejestracji broni;
-- naruszyła obowiązek zawiadomienia o utracie broni;                            #
+- naruszyła obowiązek zawiadomienia o utracie broni;                            $
 - naruszyła obowiązek dotyczący noszenia oraz przechowywania broni;
 
 1. Czy dozwolone jest dokonywanie przeróbek broni zmieniających jej rodzaj,
@@ -198,9 +198,9 @@ przepisów:
 
 1. Czy osoba występują z wnioskiem o wydanie pozwolenia na broń obowiązana jest
 dostarczyć do niego orzeczenie lekarskie i psychologiczne:
-A tak;                                                                          #
-B nie;
-C tylko na żądanie organu Policji;
+- tak;                                                                          #
+- nie;
+- tylko na żądanie organu Policji;
 
 2. Od egzaminu przed komisja powołana przez właściwy organ Policji ze znajomości
 przepisów dotyczących posiadania i używania danej broni oraz umiejętności
@@ -273,7 +273,7 @@ przeciwko życiu i zdrowiu;                                                     
 pozwolenie wydano:
 - jest skazana prawomocnym orzeczeniem sądu za nieumyślne przestępstwo
 przeciwko bezpieczeństwu w komunikacji popełnione w stanie nietrzeźwości lub
-pod wpływem środka odurzającego albo gdy sprawca zbiegł z miejsca zdarzenia     #
+pod wpływem środka odurzającego albo gdy sprawca zbiegł z miejsca zdarzenia;    $
 - jest skazana prawomocnym orzeczeniem sądu za nieumyślne przestępstwo
 przeciwko bezpieczeństwu w komunikacji ale wyłącznie w przypadku gdy sprawca
 zbiegł z miejsca zdarzenia;
@@ -347,12 +347,6 @@ na podstawie:
 - naboje przeznaczone do strzelania z broni palnej;                             #
 - naboje przeznaczone do strzelania z broni palnej i broni pneumatycznej;
 
-2. Pozwolenia na broń nie wymaga się w przypadku:
-- posiadania broni palnej odziedziczonej po krewnym wstępnym;
-- posiadania broni do celów kolekcjonerskich;
-- używania broni w celach sportowych na strzelnicy działającej na podstawie
-zezwolenia właściwego organu;                                                   #
-
 2. Właściwy organ Policji może cofnąć pozwolenie na broń:
 - jeżeli posiadacz pozwolenia na broń do celów sportowych nie dopełnia
 obowiązku przedstawienia właściwemu organowi Policji raz na pięć lat aktualnego
@@ -370,9 +364,9 @@ pozbawienia broni i amunicji cech użytkowych;
 
 2. Czy osoba deponująca broń w jednostce Policji ma prawo do dostępu do niej w
 celu okazania jej osobom zainteresowanym jej nabyciem oraz oceny stanu broni:
-- tak, pod warunkiem, że otrzyma zgodę komendanta wojewódzkiego Policji
+- tak, pod warunkiem, że otrzyma zgodę komendanta wojewódzkiego Policji;
 - tak, ale dopiero po uzgodnieniu z jednostką deponującą;                       #
-- nie
+- nie;
 
 2. Pozwolenia na broń nie wymaga się w przypadku:
 - posiadania broni palnej odziedziczonej po krewnym wstępnym;
@@ -403,7 +397,7 @@ Policji lub Żandarmerii Wojskowej;
 - w dowolnym miejscu, przy zachowaniu warunków bezpieczeństwa;
 - jest bezwzględnie zabronione;
 - na stanowisku treningowym lub strzeleckim lub w innym miejscu do tego
-wyznaczonym za zgodą prowadzącego strzelanie ;                                  #
+wyznaczonym za zgodą prowadzącego strzelanie;                                   #
 
 3. Na strzelnicy zwierzęta:
 - obowiązkowo powinny być trzymane na uwięzi, pod nadzorem każdej osoby,
@@ -551,7 +545,7 @@ strzelania konkurencji zatwierdzonych przez Międzynarodowa Federacje Sportu
 Strzeleckiego (ISSF) wynosi:
 - nie jest określony;                                                           #
 - 1000 g.;
-- 500 g. ;
+- 500 g.;
 
 5. Minimalny opór jeżyka spustowego w pistolecie pneumatycznym dopuszczonym do
 konkurencji zatwierdzonych przez Międzynarodowa Federacje Sportu Strzeleckiego
