@@ -78,8 +78,8 @@ powiadomić o tym fakcie Policję, nie później jednak niż w ciągu:
 1. Istotnymi częściami broni palnej są:
 - szkielet broni, baskila, lufa, komora zamkowa, magazynek;
 - szkielet broni, lufa, komora zamkowa, zamek, bezpiecznik;
-- szkielet broni, baskila, lufa z komorą nabojową, komora zamkowa, zamek oraz   $
-bęben nabojowy;
+- szkielet broni, baskila, lufa z komorą nabojową, komora zamkowa, zamek oraz
+bęben nabojowy;                                                                 $
 
 1. Istotnymi częściami amunicji są:
 - pociski wypełnione chemicznymi środkami obezwładniającymi, których działanie
